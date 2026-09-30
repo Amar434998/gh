@@ -5,5 +5,10 @@ public class jj {
 		System.out.println("amar");
 
 	}
+	
+	private void sysout234() {
+		System.out.println("amarffffffffff");
+
+	}
 
 }
