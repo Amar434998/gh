@@ -2,7 +2,7 @@ package abcdefg;
 
 public class jj {
 	private void sysout() {
-		// TODO Auto-generated method stub
+		System.out.println("amar");
 
 	}
 
